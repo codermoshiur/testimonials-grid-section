@@ -57,6 +57,7 @@ h6 {
 }
 .testimonials {
   background-color: var(--clr-light-grayish-blue);
+  min-height: 100vh;
 }
 .testimonials__grid {
   padding: 4.4375rem 1.5rem;
