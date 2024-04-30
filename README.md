@@ -1,4 +1,4 @@
-# Frontend Mentor - Challange name
+# Frontend Mentor - Testimonials grid section
 
 ## Overview
 
@@ -6,11 +6,7 @@
 
 #### Desktop
 
-![](Screenshot)
-
-#### Mobile
-
-![](Screenshot)
+![](./design/desktop-design.png)
 
 ### Links
 
@@ -23,6 +19,7 @@
 
 - Semantic HTML5 markup
 - CSS custom properties
+- CSS Flexbox
 - CSS Grid
 - Mobile-first workflow
 
